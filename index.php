@@ -18,8 +18,12 @@
   echo "Change";
   echo "User-2 was here, all base are belong to us";
   echo "rra-enz.. was also here, I take base belong to me";
+<<<<<<< HEAD
   echo "olaf was hier";
 
 
+=======
+  echo "User-2 rules@@@@@@@@@@@@@@@@@";
+>>>>>>> 37f98f14b97aba5178d70710c1e724bbf4437d7a
   
 ?>
