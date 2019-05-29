@@ -18,6 +18,10 @@
   echo "Change";
   echo "User-2 was here, all base are belong to us";
   echo "rra-enz.. was also here, I take base belong to me";
+<<<<<<< HEAD
+  echo "Leon is hier";
+  echo "olaf was hier";
+=======
 
   echo "Leon is hier";
   echo "olaf was hier";
@@ -67,6 +71,7 @@
   echo "rra-enz.. was also here, I take base belong to me";
   echo "User-2 rules";
   echo "jay owen";
+>>>>>>> origin/master
 
 
 echo "Tralalala dingdong"
