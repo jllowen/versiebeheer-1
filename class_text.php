@@ -12,7 +12,7 @@
     var $tekst7 = "uithof";
     var $tekst8 = "In de trein";
     var $tekst9 = "Nieuw commit om te kunnen samenwerken";
-    var $tekst8 = "hallo jonge lui";
+    var $tekst10 = "hallo jonge lui";
    
     
   }
