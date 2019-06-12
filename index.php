@@ -21,15 +21,9 @@
   echo "Leon is hier";
   echo "olaf was hier";
  echo "iemand haal jou neefje op";
-
+ echo "i'm already tracer";
 
 echo "Tralalala dingdong";
-echo "Mijn naam is: Arjan de Ruijter";
-echo "hoi ik ben Leon";
-echo "Mijn naam is: jay owen";
-echo "hoi ik ben meloen";
-echo "ik ben de moeder van tim maar ik denk dat dit niet zijn klas is :/"
-echo "houi";
 echo "Mijn naam is: jay owen";
 echo "hoi ik ben meloen";
 echo "ik ben de moeder van tim maar ik denk dat dit niet zijn klas is :/"
