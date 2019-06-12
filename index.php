@@ -22,9 +22,14 @@
   echo "olaf was hier";
  echo "iemand haal jou neefje op";
 
+
 echo "Tralalala dingdong";
+<<<<<<< HEAD
 echo "Mijn naam is: Arjan";
 echo "mijn naam is: olaf Majoor";
 echo "Mijn naam is: jay owen";
+=======
+echo "ik ben de moeder van tim maar ik denk dat dit niet zijn klas is :/"
+>>>>>>> 6f0a008f3c5476471e7a3eb7feb8b7a00d655600
 
 ?>
