@@ -39,6 +39,20 @@ echo "Mijn naam is aarsbanaan";
 echo '<img src="https://i.pinimg.com/originals/62/40/23/624023d14642946b386b89d364b2ed3c.jpg'.$photo->kees.'"/>';
 ?>
 <html>
+<div class="carousel-inner">
+      <div class="carousel-item active">
+      <video muted autoplay loop="true">
+    <source type="video/mp4" src="./img/video/watch_video.mp4">
+    <source type="video/webm" src="./img/video/watch_video.mp4">
+    <source type="video/ogg" src="./img/video/watch_video.mp4">
+  </video>
+        
+        <div class="carousel-caption d-none d-md-block">
+          <h3>Samsung Smartwatch</h3>
+          <p>Koop nu deze smarwatch voor een luttel bedrag van €230,-</p>
+        </div>
+      </div>
+
 <a href="https://www.youtube.com/watch?v=FZ17XRlrIl4">banger</a>
 </html>
 
