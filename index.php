@@ -22,7 +22,10 @@
   echo "olaf was hier";
  echo "iemand haal jou neefje op";
 
+
 echo "Tralalala dingdong";
 echo "Mijn naam is: jay owen";
+echo "hoi ik ben loen";
+echo "ik ben de moeder van tim maar ik denk dat dit niet zijn klas is :/"
 
 ?>
