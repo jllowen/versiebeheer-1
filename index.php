@@ -36,12 +36,13 @@ echo "hoi ik ben meleon";
 echo "ik ben de moeder van tim maar ik denk dat dit niet zijn klas is :/";
 
 echo "Mijn naam is aarsbanaan";
-echo '<img src="https://i.pinimg.com/originals/62/40/23/624023d14642946b386b89d364b2ed3c.jpg'.$photo->kees.'"/>';
+echo '<img src="https://i.pinimg.com/originals/62/40/23/624023d14642946b386b89d364b2ed3c.jpg"/>';
 ?>
 <html>
+
 <div class="carousel-inner">git 
       <div class="carousel-item active">
-      <video muted autoplay loop="true">
+      <video  autoplay loop="true">
     <source type="video/mp4" src="./img/video/pokemon.mp4">
     <source type="video/webm" src="./img/video/pokemon.mp4">
     <source type="video/ogg" src="./img/video/pokemon.mp4">
