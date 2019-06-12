@@ -21,21 +21,6 @@
   echo "Leon is hier";
   echo "olaf was hier";
  echo "iemand haal jou neefje op";
- echo "i'm already tracer";
-
-echo "Tralalala dingdong";
-
-echo "Mijn naam is: Arjan";
-echo "mijn naam is: olaf Majoor";
-echo "Mijn naam is: jay owen";
-
-echo "Mijn naam is: jay owen";
-echo "hoi ik ben loen";
-
-echo "Mijn naam is: Arjan de Ruijter";
-echo "hoi ik ben loen";
-
-echo '<img src="https://media.giphy.com/media/SggILpMXO7Xt6/giphy.gif'.$photo->kees.'"/>';
 
 
 ?>
