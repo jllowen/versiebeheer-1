@@ -33,7 +33,27 @@ echo "houi";
 echo "Mijn naam is: jay owen";
 echo "hoi ik ben meleon";
 
+<br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
 echo "ik ben de moeder van tim maar ik denk dat dit niet zijn klas is :/";
+
+echo "Dag moeder van Tim, hij moet nablijven en zit in een ander lokaal. Hij verdient wel een goede pets op zijn billen!"
+  
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 
 
 echo '<img src="https://i.pinimg.com/originals/62/40/23/624023d14642946b386b89d364b2ed3c.jpg'.$photo->kees.'"/>';
