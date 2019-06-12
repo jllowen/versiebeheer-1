@@ -26,6 +26,7 @@
 echo "Tralalala dingdong";
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "Mijn naam is: Arjan";
 echo "mijn naam is: olaf Majoor";
 echo "Mijn naam is: jay owen";
@@ -34,6 +35,12 @@ echo "Mijn naam is: jay owen";
 echo "Mijn naam is: jay owen";
 echo "hoi ik ben loen";
 >>>>>>> 1986c5b1ee07a2aeab5aa08194e8caab59b0c182
+=======
+echo "Mijn naam is: Arjan de Ruijter";
+echo "hoi ik ben loen";
+echo "Mijn naam is: jay owen";
+echo "hoi ik ben meloen";
+>>>>>>> 1df07d6c16cd2f35e70e377f23c7c170ab634040
 echo "ik ben de moeder van tim maar ik denk dat dit niet zijn klas is :/"
 >>>>>>> 6f0a008f3c5476471e7a3eb7feb8b7a00d655600
 
