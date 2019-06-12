@@ -39,7 +39,7 @@ echo "Mijn naam is aarsbanaan";
 echo '<img src="https://i.pinimg.com/originals/62/40/23/624023d14642946b386b89d364b2ed3c.jpg'.$photo->kees.'"/>';
 ?>
 <html>
-<div class="carousel-inner">
+<div class="carousel-inner">git 
       <div class="carousel-item active">
       <video muted autoplay loop="true">
     <source type="video/mp4" src="./img/video/watch_video.mp4">
