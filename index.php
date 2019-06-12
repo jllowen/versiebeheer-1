@@ -24,5 +24,6 @@
 
 echo "Tralalala dingdong";
 echo "Mijn naam is: Arjan";
+echo "mijn naam is: olaf Majoor"
 
 ?>
