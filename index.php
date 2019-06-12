@@ -22,6 +22,6 @@
   echo "olaf was hier";
  echo "iemand haal jou neefje op";
 
-echo "Tralalala dingdong"
+echo "Tralalala dingdong";
 
 ?>
