@@ -32,6 +32,7 @@ echo "ik ben de moeder van tim maar ik denk dat dit niet zijn klas is :/";
 echo "houi";
 echo "Mijn naam is: jay owen";
 echo "hoi ik ben meleon";
+echo "Lowen was hier"
 
   <br><br><br><br><br><br>
 
