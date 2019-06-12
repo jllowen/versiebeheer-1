@@ -25,7 +25,7 @@
 
 echo "Tralalala dingdong";
 echo "Mijn naam is: jay owen";
-echo "hoi ik ben loen";
+echo "hoi ik ben meloen";
 echo "ik ben de moeder van tim maar ik denk dat dit niet zijn klas is :/"
 
 ?>
