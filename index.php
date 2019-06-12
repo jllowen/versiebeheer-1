@@ -32,8 +32,14 @@ echo "ik ben de moeder van tim maar ik denk dat dit niet zijn klas is :/";
 echo "houi";
 echo "Mijn naam is: jay owen";
 echo "hoi ik ben meleon";
+<<<<<<< HEAD
 echo "ik ben de moeder van tim maar ik denk dat dit niet zijn klas is :/";
 echo '<img src="https://media.giphy.com/media/SggILpMXO7Xt6/giphy.gif'.$photo->kees.'"/>';
+=======
+
+echo "ik ben de moeder van tim maar ik denk dat dit niet zijn klas is :/"
+echo '<img src="https://media.giphy.com/media/SggILpMXO7Xt6/giphy.gif'.$photo->kees.'"/>'
+>>>>>>> af5669bffaa61354caea600c2f2152ed984670c5
 echo "Mijn naam is aarsbanaan";
 echo '<img src="https://i.pinimg.com/originals/62/40/23/624023d14642946b386b89d364b2ed3c.jpg'.$photo->kees.'"/>';
 
