@@ -34,7 +34,7 @@ echo "Mijn naam is: jay owen";
 echo "hoi ik ben meleon";
 
 echo "ik ben de moeder van tim maar ik denk dat dit niet zijn klas is :/";
-echo '<img src="https://media.giphy.com/media/SggILpMXO7Xt6/giphy.gif'.$photo->kees.'"/>';
+
 echo "Mijn naam is aarsbanaan";
 echo '<img src="https://i.pinimg.com/originals/62/40/23/624023d14642946b386b89d364b2ed3c.jpg'.$photo->kees.'"/>';
 ?>
@@ -53,7 +53,7 @@ echo '<img src="https://i.pinimg.com/originals/62/40/23/624023d14642946b386b89d3
         </div>
       </div>
 
-<a href="https://www.youtube.com/watch?v=FZ17XRlrIl4">banger</a>
+<a href="https://www.youtube.com/watch?v=FZ17XRlrIl4"><img src="https://media.giphy.com/media/SggILpMXO7Xt6/giphy.gif"/></a>
 </html>
 
 
