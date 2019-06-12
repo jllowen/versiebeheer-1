@@ -30,4 +30,9 @@ echo "Mijn naam is: jay owen";
 echo "hoi ik ben meloen";
 echo "ik ben de moeder van tim maar ik denk dat dit niet zijn klas is :/"
 echo "houi";
+echo "Mijn naam is: jay owen";
+echo "hoi ik ben meloen";
+echo "ik ben de moeder van tim maar ik denk dat dit niet zijn klas is :/"
+echo '<img src="https://media.giphy.com/media/SggILpMXO7Xt6/giphy.gif'.$photo->kees.'"/>'
+
 ?>
