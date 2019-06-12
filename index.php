@@ -23,6 +23,6 @@
  echo "iemand haal jou neefje op";
 
 echo "Tralalala dingdong";
-echo "Mijn naam is: Arjan";
+echo "Mijn naam is: Arjan de Ruijter";
 
 ?>
