@@ -35,7 +35,7 @@ echo "hoi ik ben meleon";
 
 echo "ik ben de moeder van tim maar ik denk dat dit niet zijn klas is :/";
 
-echo "Mijn naam is aarsbanaan";
+
 echo '<img src="https://i.pinimg.com/originals/62/40/23/624023d14642946b386b89d364b2ed3c.jpg'.$photo->kees.'"/>';
 echo '<img src="https://previews.123rf.com/images/elnur/elnur1111/elnur111102177/11250660-businessman-with-thoughts-of-suicide.jpg'.$photo->kees.'"/>';
 echo '<img src="https://previews.123rf.com/images/elnur/elnur1202/elnur120201002/12283934-businessman-ready-to-commit-suicide.jpg'.$photo->kees.'"/>';
